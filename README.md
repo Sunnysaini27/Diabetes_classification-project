@@ -16,7 +16,7 @@ https://{your_url}.pwskills.app:5000/
 ```
 
 # some detail about dataset
-Pregnancies: Number of times pregnant
+Pregnancies: Number of times pregnant /n
 Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 BloodPressure: Diastolic blood pressure (mm Hg)
 SkinThickness: Triceps skin fold thickness (mm)
